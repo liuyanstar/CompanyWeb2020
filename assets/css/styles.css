@@ -113,13 +113,14 @@ footer a{
 }
 .logo{
   color: #222;
-      margin: 19px 0 0;
+    margin: 19px 0 0;
+    font-size: 100px;
 }
 .logo a{
 text-decoration:none;
 }
 .logo h2 span{ 
-  padding: 5px 7px;
+  padding: 10px 20px;
   color: #dc3545;
 }   
 .menu-area{
