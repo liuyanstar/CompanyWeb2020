@@ -117,7 +117,7 @@ footer a{
 
 }
 .logo a{
-text-decoration:underline;
+text-decoration:blink;
 }
 .logo h2 span{ 
   padding: 10px 10px;
