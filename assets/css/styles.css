@@ -9,9 +9,14 @@ License: https://webthemez.com/license
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap'); 
 @import url('https://fonts.googleapis.com/css?family=Archivo+Black&display=swap');
 
-h1, h2{ 
+h1{
 	font-family: 'Archivo Black', sans-serif; 
 	font-weight:bolder;
+}
+
+h2{
+    font-family: SimHei,"微软雅黑",sans-serif;
+    font-weight: bolder;
 }
 
 html {
